@@ -52,10 +52,10 @@ Study: multiple
 In focus: NA
 
 
-[20140912]:./12-09-2014-Line-graphs-OCTO.html
-[20140919]:./19-09-2014-From-Raw-to-Draw.html
-[20140926]:./26-09-2014-Dementia-Personality-OCTO.html
-[20141003]:./03-10-2014-Dementia-Personality-OCTO-Part2.html
+[20140912]:./2014-12-09-Line-graphs-OCTO.html
+[20140919]:./2014-19-09-From-Raw-to-Draw.html
+[20140926]:./2014-26-09-Dementia-Personality-OCTO.html
+[20141003]:./2014-03-10-Dementia-Personality-OCTO-Part2.html
 [20141010]:./2014-10-10-Intro-to-RR-Demo.html
 [20141017]:./2014-10-21-Data-Manipulation-firstDraft.html
 [20141031]:./2014-10-31-Producing-Graphs-Demo.html
