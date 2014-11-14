@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: \"iLifespan lab log\"\noutput:\n  html_document:\n    toc: yes\n---\n\n\n#2014\n\n## September\n\n### September 12\nTopic: [Basic line graphs][20140912]  \nStudy: OCTO TWIN  \nIn focus: Hypertension and Cognition    \n</br>\n\n\n### September 19\nTopic: [From Raw to Draw][20140919] \nStudy: OCTO TWIN\nIn focus: Hypertension and Cognition\n\nSession introduced the concept of datastages. Basic map of dataflow is introduced.\n\n### September 26 \nTopic: [Part 1 : Reshaping Data][20140926] \nStudy: OCTO TWIN\nIn focus: Personality and Dementia\n\n\n## October\n\n### October 3 \nTopic: [Part 2: Graphing Data][20141003] \nStudy: OCTO TWIN\nIn focus: Personality and Dementia\n\n\n### October 10\nTopic: [Intro to RR (Demo)][20141010]  \nStudy: OCTO TWIN  \nIn focus: Personality and Dementia  \n\n### October 17   \nTopic: [Data Manipulation (Demo)][20141017]   \nStudy: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    \nIn focus: Religiosity in Young Adults    \n\n### October 31   \nTopic: [Graph Production (Demo)][20141031]   \nStudy: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    \nIn focus: Religiosity in Young Adults \n\n\n### November 7   \nTopic: [Establishing Data Access: Curating a Study][20141107]   \nStudy: multiple    \nIn focus: NA\n\n\n### November 14   \nTopic: [Demo: Statistical Modeling][20141114]   \nStudy: multiple    \nIn focus: NA\n\n\n[20140912]:./2014-12-09-Line-graphs-OCTO.html\n[20140919]:./2014-19-09-From-Raw-to-Draw.html\n[20140926]:./2014-26-09-Dementia-Personality-OCTO.html\n[20141003]:./2014-03-10-Dementia-Personality-OCTO-Part2.html\n[20141010]:./2014-10-10-Intro-to-RR-Demo.html\n[20141017]:./2014-10-21-Data-Manipulation-firstDraft.html\n[20141031]:./2014-10-31-Producing-Graphs-Demo.html\n[20141107]:./2014-11-07-Curating-a-Study.html\n[20141114]:./2014-11-14-Statistical-Modeling-Demo.html\n\n\n\n",
+    "created" : 1415990432159.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1082227817",
+    "id" : "4E97AA79",
+    "lastKnownWriteTime" : 1415990562,
+    "path" : "~/GitHub/LabLog/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
