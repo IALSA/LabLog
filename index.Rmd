@@ -39,23 +39,23 @@ In focus: Personality and Dementia
 
 
 ### October 10
-Topic: [Intro to RR (Demo)][20141010]  
+Topic: [Intro to RR : (Demo)][20141010]  
 Study: n/a  
-In focus: Traditional vs Reproducible research paradigm
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+In focus: Traditional vs Reproducible research paradigm  
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft on [Toolbox and Toolset of Reproducible Research](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-14-Toolbox-and-Skillset.html)
 
 ### October 17   
 Topic: [Data Manipulation (Demo)][20141017]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)    
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Skills (1): Data Manipulation](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-21-Data-Manipulation.html)
 
 
 ### October 31   
 Topic: [Graph Production (Demo)][20141031]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)  
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (2): Graph Production](http://ialsa.github.io/COAG-colloquium-2014F/2014-11-04-Producing-Graphs.html)  
 
 ## November
 
@@ -69,13 +69,13 @@ In focus: Laying out the workflow for preparing the data of  varopis IALSA studi
 Topic: [Demo: Statistical Modeling][20141114]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)   
 In focus: creating model objects in R
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (3): Statistical modeling](http://ialsa.github.io/COAG-colloquium-2014F/2014-11-18-Statistical-Modeling.html)  
 
 ### November 28   
 Topic: [Demo: Dynamic Reporting][20141128]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)  
 In focus: production of dynamic documents for analyzing sequences of statistical models   
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (4): Dynamic Reporting](http://ialsa.github.io/COAG-colloquium-2014F/2014-12-02-Dynamic-Reporting.html)
 
 
 # 2015 
