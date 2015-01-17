@@ -40,35 +40,53 @@ In focus: Personality and Dementia
 
 ### October 10
 Topic: [Intro to RR (Demo)][20141010]  
-Study: OCTO TWIN  
-In focus: Personality and Dementia  
+Study: n/a  
+In focus: Traditional vs Reproducible research paradigm
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
 
 ### October 17   
 Topic: [Data Manipulation (Demo)][20141017]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
-In focus: Religiosity in Young Adults    
+In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)    
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+
 
 ### October 31   
 Topic: [Graph Production (Demo)][20141031]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
-In focus: Religiosity in Young Adults 
+In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)  
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
 
+## November
 
 ### November 7   
 Topic: [Establishing Data Access: Curating a Study][20141107]   
 Study: multiple    
-In focus: NA
+In focus: Laying out the workflow for preparing the data of  varopis IALSA studies for analysis  
 
 
 ### November 14   
 Topic: [Demo: Statistical Modeling][20141114]   
-Study: multiple    
-In focus: NA
+Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)   
+In focus: creating model objects in R
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
 
 ### November 28   
 Topic: [Demo: Dynamic Reporting][20141128]   
-Study: NLSY97    
+Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)  
 In focus: production of dynamic documents for analyzing sequences of statistical models   
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/)
+
+
+# 2015 
+
+## January
+
+### January 23
+Topic: Getting back with study curating.  
+Study:  multiple  
+In focus: TBA  
+
 
 
 [20140912]:./2014-09-12-Line-graphs-OCTO.html
