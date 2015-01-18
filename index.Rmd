@@ -4,13 +4,14 @@ output:
   html_document:
     toc: yes
 ---
+
 </br>  
 
 #2014
 
 ## September
 
-### September 12
+### September 12 - Basic line graphs
 Topic: [Basic line graphs][20140912]  
 Study: OCTO TWIN  
 In focus: Hypertension and Cognition   
@@ -18,7 +19,7 @@ Code source: [Hypertension and Cognition](https://github.com/IALSA/Hypertension-
 </br>
 
 
-### September 19
+### September 19 - From RAW to DRAW
 Topic: [From Raw to Draw][20140919] 
 Study: OCTO TWIN
 In focus: Hypertension and Cognition. Session introduced the concept of datastages. Basic map of dataflow is introduced.  
@@ -26,7 +27,7 @@ Code source: [Hypertension and Cognition](https://github.com/IALSA/Hypertension-
 </br>
 
 
-### September 26 
+### September 26  - Reshaping data
 Topic: [Part 1 : Reshaping Data][20140926] 
 Study: OCTO TWIN
 In focus: Personality and Dementia  
@@ -36,7 +37,7 @@ Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and
 
 ## October
 
-### October 3 
+### October 3  - Graphing data
 Topic: [Part 2: Graphing Data][20141003] 
 Study: OCTO TWIN
 In focus: Personality and Dementia   
@@ -44,14 +45,14 @@ Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and
 </br> 
 
 
-### October 10
+### October 10 - Intor to RR
 Topic: [Intro to Reproducible Research (Demo)][20141010]  
 Study: n/a  
 In focus: Traditional vs Reproducible research paradigm  
 Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft on [Toolbox and Toolset of Reproducible Research](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-14-Toolbox-and-Skillset.html)
 </br> 
 
-### October 17   
+### October 17  - Data Manipualtion 
 Topic: [Data Manipulation (Demo)][20141017]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)      
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)      
@@ -62,7 +63,7 @@ Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-s
 
 
 
-### October 31   
+### October 31 - Graph Production  
 Topic: [Graph Production (Demo)][20141031]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)  
@@ -73,7 +74,7 @@ Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-s
 
 ## November
 
-### November 7   
+### November 7  - Curating a Study 
 Topic: [Establishing Data Access: Curating a Study][20141107]   
 Study: multiple    
 In focus: Laying out the workflow for preparing the data of  varopis IALSA studies for analysis  
@@ -87,8 +88,8 @@ Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ial
 Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
 </br> 
 
-### November 28   
-Topic: [Demo: Dynamic Reporting][20141128]   
+### November 28 - Dynamic Reporting  
+Topic: [Dynamic Reporting (Demo)][20141128]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)  
 In focus: production of dynamic documents for analyzing sequences of statistical models   
 Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (4): Dynamic Reporting](http://ialsa.github.io/COAG-colloquium-2014F/2014-12-02-Dynamic-Reporting.html)  
@@ -105,7 +106,7 @@ Topic: Getting back with study curating.
 Study:  multiple  
 In focus: TBA  
 
-
+[logo]:./images/ialsa_long.png
 
 [20140912]:./2014-09-12-Line-graphs-OCTO.html
 [20140919]:./2014-09-19-From-Raw-to-Draw.html
