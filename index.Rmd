@@ -4,7 +4,7 @@ output:
   html_document:
     toc: yes
 ---
-
+</br>  
 
 #2014
 
@@ -13,7 +13,7 @@ output:
 ### September 12
 Topic: [Basic line graphs][20140912]  
 Study: OCTO TWIN  
-In focus: Hypertension and Cognition 
+In focus: Hypertension and Cognition   
 Code source: [Hypertension and Cognition](https://github.com/IALSA/Hypertension-and-Cognition/tree/gh-pages/LabLog) project, private repository
 </br>
 
@@ -31,7 +31,7 @@ Topic: [Part 1 : Reshaping Data][20140926]
 Study: OCTO TWIN
 In focus: Personality and Dementia  
 Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and-Dementia/tree/master/Reports/LabLog) project, private repository
-</br>
+</br> </br> </br>
 
 
 ## October
@@ -45,7 +45,7 @@ Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and
 
 
 ### October 10
-Topic: [Intro to RR : (Demo)][20141010]  
+Topic: [Intro to Reproducible Research (Demo)][20141010]  
 Study: n/a  
 In focus: Traditional vs Reproducible research paradigm  
 Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft on [Toolbox and Toolset of Reproducible Research](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-14-Toolbox-and-Skillset.html)
@@ -53,9 +53,9 @@ Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ial
 
 ### October 17   
 Topic: [Data Manipulation (Demo)][20141017]   
-Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)    
-In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)    
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Skills (1): Data Manipulation](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-21-Data-Manipulation.html)
+Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)      
+In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)      
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Skills (1): Data Manipulation](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-21-Data-Manipulation.html)   
 Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
 </br> 
 
@@ -68,10 +68,10 @@ Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)  
 Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (2): Graph Production](http://ialsa.github.io/COAG-colloquium-2014F/2014-11-04-Producing-Graphs.html)  
 Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
-</br> 
+</br> </br> </br>
+
 
 ## November
-</br> 
 
 ### November 7   
 Topic: [Establishing Data Access: Curating a Study][20141107]   
@@ -91,17 +91,14 @@ Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-s
 Topic: [Demo: Dynamic Reporting][20141128]   
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)  
 In focus: production of dynamic documents for analyzing sequences of statistical models   
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (4): Dynamic Reporting](http://ialsa.github.io/COAG-colloquium-2014F/2014-12-02-Dynamic-Reporting.html)
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (4): Dynamic Reporting](http://ialsa.github.io/COAG-colloquium-2014F/2014-12-02-Dynamic-Reporting.html)  
 Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
-</br> 
+</br> </br> </br>
 
 
 # 2015 
-</br> 
-</br> 
 
 ## January
-</br> 
 
 ### January 23
 Topic: Getting back with study curating.  
