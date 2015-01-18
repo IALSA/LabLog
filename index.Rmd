@@ -20,7 +20,7 @@ Code source: [Hypertension and Cognition](https://github.com/IALSA/Hypertension-
 
 
 ### September 19 - From RAW to DRAW
-Presentation: [From Raw to Draw][20140919] 
+Presentation: [From Raw to Draw][20140919]   
 Study: OCTO TWIN
 In focus: Hypertension and Cognition. Session introduced the concept of datastages. Basic map of dataflow is introduced.  
 Code source: [Hypertension and Cognition](https://github.com/IALSA/Hypertension-and-Cognition/tree/gh-pages/LabLog) project, private repository
@@ -38,26 +38,26 @@ Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and
 ## October
 
 ### October 3  - Graphing data
-Presentation: [Part 2: Graphing Data][20141003] 
-Study: OCTO TWIN
+Presentation: [Part 2: Graphing Data][20141003]  
+Study: OCTO TWIN  
 In focus: Personality and Dementia   
-Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and-Dementia/tree/master/Reports/LabLog) project, private repository
+Code source: [Personality and Dementia](https://github.com/IALSA/Personality-and-Dementia/tree/master/Reports/LabLog) project, private repository   
 </br> 
 
 
 ### October 10 - Intro to RR
 Presentation: [Intro to Reproducible Research (Demo)][20141010]  
 Study: n/a  
-In focus: Traditional vs Reproducible research paradigm  
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft on [Toolbox and Toolset of Reproducible Research](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-14-Toolbox-and-Skillset.html)
+In focus: Traditional vs Reproducible research paradigm   
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft on [Toolbox and Toolset of Reproducible Research](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-14-Toolbox-and-Skillset.html)  
 </br> 
 
 ### October 17  - Data Manipualtion 
-Presentation: [Data Manipulation (Demo)][20141017]   
+Presentation: [Data Manipulation (Demo)][20141017]    
 Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)      
 In focus: Religiosity in Young Adults, [NLSY97](https://www.nlsinfo.org/investigator/pages/login.jsp)      
 Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Skills (1): Data Manipulation](http://ialsa.github.io/COAG-colloquium-2014F/2014-10-21-Data-Manipulation.html)   
-Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
+Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository. 
 </br> 
 
 
@@ -81,11 +81,11 @@ In focus: Laying out the workflow for preparing the data of  varopis IALSA studi
 </br> 
 
 ### November 14 - Statistical Modeling  
-Presentation: [Demo: Statistical Modeling][20141114]   
-Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)   
-In focus: creating model objects in R
-Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (3): Statistical modeling](http://ialsa.github.io/COAG-colloquium-2014F/2014-11-18-Statistical-Modeling.html)  
-Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.
+Presentation: [Demo: Statistical Modeling][20141114]     
+Study: [NLSY](https://www.nlsinfo.org/investigator/pages/login.jsp)     
+In focus: creating model objects in R   
+Note: first draft of the lecture presented at [COAG Colloquium 2014F](http://ialsa.github.io/COAG-colloquium-2014F/), see final draft  on [RR Basic Skills (3): Statistical modeling](http://ialsa.github.io/COAG-colloquium-2014F/2014-11-18-Statistical-Modeling.html)    
+Code source: [Reports](https://github.com/IALSA/COAG-colloquium-2014F/tree/LCM-sequence/Reports) from the COAG Colloquium 2014F lecture series on methodology and reproducible research, public repository.  
 </br> 
 
 ### November 28 - Dynamic Reporting  
